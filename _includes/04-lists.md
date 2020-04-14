@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- Web
+  - Html
+  - Css
+- App
+  - Xyz
+
+1. C++
+2. PHP
+3. Cookies
